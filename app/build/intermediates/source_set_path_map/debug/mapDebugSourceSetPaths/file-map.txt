@@ -1,0 +1,75 @@
+com.sanil.ride.app-lifecycle-viewmodel-release-0 C:\Users\suman\.gradle\caches\transforms-4\0315e21bb4701cb664348eee0b1904ae\transformed\lifecycle-viewmodel-release\res
+com.sanil.ride.app-material-icons-core-release-1 C:\Users\suman\.gradle\caches\transforms-4\1740d7e388904054ebc3c9e4099c5b5a\transformed\material-icons-core-release\res
+com.sanil.ride.app-animation-release-2 C:\Users\suman\.gradle\caches\transforms-4\1dbdf850916e7b5cffca0d01e5fd8526\transformed\animation-release\res
+com.sanil.ride.app-ui-unit-release-3 C:\Users\suman\.gradle\caches\transforms-4\205b61a8a46a0e9514781e716f75730a\transformed\ui-unit-release\res
+com.sanil.ride.app-customview-poolingcontainer-1.0.0-4 C:\Users\suman\.gradle\caches\transforms-4\25d079008f98532f0cce9877e68b7b94\transformed\customview-poolingcontainer-1.0.0\res
+com.sanil.ride.app-savedstate-ktx-1.2.1-5 C:\Users\suman\.gradle\caches\transforms-4\26607618ef9519b38f396086255c0822\transformed\savedstate-ktx-1.2.1\res
+com.sanil.ride.app-material-ripple-release-6 C:\Users\suman\.gradle\caches\transforms-4\2ba086822abaec3b5a1fa56001ee18fe\transformed\material-ripple-release\res
+com.sanil.ride.app-runtime-saveable-release-7 C:\Users\suman\.gradle\caches\transforms-4\2be6599a5e1b8694d3417d28e5e74f65\transformed\runtime-saveable-release\res
+com.sanil.ride.app-play-services-auth-20.7.0-8 C:\Users\suman\.gradle\caches\transforms-4\2e59becd276a7661bc61237f6fdd5666\transformed\play-services-auth-20.7.0\res
+com.sanil.ride.app-appcompat-resources-1.6.1-9 C:\Users\suman\.gradle\caches\transforms-4\2eaf3e33540d41685986b01e69f7f338\transformed\appcompat-resources-1.6.1\res
+com.sanil.ride.app-ui-release-10 C:\Users\suman\.gradle\caches\transforms-4\2fc2d80a4c451810365f177fff036d0a\transformed\ui-release\res
+com.sanil.ride.app-appcompat-1.6.1-11 C:\Users\suman\.gradle\caches\transforms-4\3411d2bb4085ef3cb2ef68f3e0a635e9\transformed\appcompat-1.6.1\res
+com.sanil.ride.app-profileinstaller-1.3.1-12 C:\Users\suman\.gradle\caches\transforms-4\35be0532e9c9ad707a1548ee3a3cd148\transformed\profileinstaller-1.3.1\res
+com.sanil.ride.app-ui-tooling-preview-release-13 C:\Users\suman\.gradle\caches\transforms-4\37be2d079c6ed3d2b4af03d3b66e1cff\transformed\ui-tooling-preview-release\res
+com.sanil.ride.app-fragment-1.3.6-14 C:\Users\suman\.gradle\caches\transforms-4\45d5240a5bc1221f0caef45fd921ce2a\transformed\fragment-1.3.6\res
+com.sanil.ride.app-coordinatorlayout-1.1.0-15 C:\Users\suman\.gradle\caches\transforms-4\4ae7eb12cfcd61d64d3020d042164b95\transformed\coordinatorlayout-1.1.0\res
+com.sanil.ride.app-activity-1.9.0-16 C:\Users\suman\.gradle\caches\transforms-4\4c4f3953e0c79f77ce44daabff1ca395\transformed\activity-1.9.0\res
+com.sanil.ride.app-transition-1.5.0-17 C:\Users\suman\.gradle\caches\transforms-4\4ef3b92c03acf81e3b58d88763ff3b65\transformed\transition-1.5.0\res
+com.sanil.ride.app-lifecycle-livedata-core-ktx-2.8.4-18 C:\Users\suman\.gradle\caches\transforms-4\502329e4c76ec78a82544a5e43508568\transformed\lifecycle-livedata-core-ktx-2.8.4\res
+com.sanil.ride.app-savedstate-1.2.1-19 C:\Users\suman\.gradle\caches\transforms-4\50af11ec51f3d53269335da2e6c39c30\transformed\savedstate-1.2.1\res
+com.sanil.ride.app-activity-ktx-1.9.0-20 C:\Users\suman\.gradle\caches\transforms-4\5d80094f2a0cde606be948a3913a4de3\transformed\activity-ktx-1.9.0\res
+com.sanil.ride.app-ui-tooling-release-21 C:\Users\suman\.gradle\caches\transforms-4\5dc59c40e1f66f854fe1f1c679e17e33\transformed\ui-tooling-release\res
+com.sanil.ride.app-emoji2-views-helper-1.3.0-22 C:\Users\suman\.gradle\caches\transforms-4\642499c6a7f50ea48a16c224cd684078\transformed\emoji2-views-helper-1.3.0\res
+com.sanil.ride.app-foundation-release-23 C:\Users\suman\.gradle\caches\transforms-4\6887b6a69b01543270fc559ca372d11c\transformed\foundation-release\res
+com.sanil.ride.app-navigation-compose-2.7.7-24 C:\Users\suman\.gradle\caches\transforms-4\68a6ab5c91c0a4bdc1c942260482154d\transformed\navigation-compose-2.7.7\res
+com.sanil.ride.app-ui-graphics-release-25 C:\Users\suman\.gradle\caches\transforms-4\699f385ff201d7816b78116c91355f99\transformed\ui-graphics-release\res
+com.sanil.ride.app-annotation-experimental-1.4.0-26 C:\Users\suman\.gradle\caches\transforms-4\7b050996d6611385cac41fee205eb2d3\transformed\annotation-experimental-1.4.0\res
+com.sanil.ride.app-cardview-1.0.0-27 C:\Users\suman\.gradle\caches\transforms-4\83c91c66a6ef417ccbbc09c187fbbd4e\transformed\cardview-1.0.0\res
+com.sanil.ride.app-material-1.12.0-28 C:\Users\suman\.gradle\caches\transforms-4\84316cafd37c1b7b64f42d5faa8275d0\transformed\material-1.12.0\res
+com.sanil.ride.app-core-1.13.1-29 C:\Users\suman\.gradle\caches\transforms-4\86d139a0de0560a1a2e026d7936fd794\transformed\core-1.13.1\res
+com.sanil.ride.app-activity-compose-1.9.0-30 C:\Users\suman\.gradle\caches\transforms-4\8b6877514c64e1c1db18b4acf732d7ac\transformed\activity-compose-1.9.0\res
+com.sanil.ride.app-lifecycle-viewmodel-compose-release-31 C:\Users\suman\.gradle\caches\transforms-4\8eb70d9f60cfdc37a6ec68049ea56776\transformed\lifecycle-viewmodel-compose-release\res
+com.sanil.ride.app-material-release-32 C:\Users\suman\.gradle\caches\transforms-4\947bd49b44586ad4ea5073eba8946c98\transformed\material-release\res
+com.sanil.ride.app-material3-release-33 C:\Users\suman\.gradle\caches\transforms-4\96584747541ad21de4c62d70aa9c54e1\transformed\material3-release\res
+com.sanil.ride.app-ui-geometry-release-34 C:\Users\suman\.gradle\caches\transforms-4\a413c5c41cd89958822f2dc49507af86\transformed\ui-geometry-release\res
+com.sanil.ride.app-emoji2-1.3.0-35 C:\Users\suman\.gradle\caches\transforms-4\a5b1ddb4dd34aceeb2b802e969e6092c\transformed\emoji2-1.3.0\res
+com.sanil.ride.app-foundation-layout-release-36 C:\Users\suman\.gradle\caches\transforms-4\a9107ad5f0e0dc6d84ddf645b245473c\transformed\foundation-layout-release\res
+com.sanil.ride.app-maps-compose-4.4.1-37 C:\Users\suman\.gradle\caches\transforms-4\a92c64f6b5f18b839932e4c7b8c8480c\transformed\maps-compose-4.4.1\res
+com.sanil.ride.app-runtime-release-38 C:\Users\suman\.gradle\caches\transforms-4\a93e27a55c4d4c15114f6b3c7b2d9b5f\transformed\runtime-release\res
+com.sanil.ride.app-recyclerview-1.1.0-39 C:\Users\suman\.gradle\caches\transforms-4\ae1eea73f39f77465c02a6511442b181\transformed\recyclerview-1.1.0\res
+com.sanil.ride.app-viewpager2-1.0.0-40 C:\Users\suman\.gradle\caches\transforms-4\afae3da7a575ef4c66e9b6a2eff721d8\transformed\viewpager2-1.0.0\res
+com.sanil.ride.app-lifecycle-livedata-2.8.4-41 C:\Users\suman\.gradle\caches\transforms-4\b3d23dbd4ce846cb28936b0c5c64f3dd\transformed\lifecycle-livedata-2.8.4\res
+com.sanil.ride.app-animation-core-release-42 C:\Users\suman\.gradle\caches\transforms-4\b68041e8521db0e09040fa8c479afa3b\transformed\animation-core-release\res
+com.sanil.ride.app-play-services-maps-18.2.0-43 C:\Users\suman\.gradle\caches\transforms-4\b6d76f645edb5ce5c61c4f21d554dfeb\transformed\play-services-maps-18.2.0\res
+com.sanil.ride.app-ui-text-release-44 C:\Users\suman\.gradle\caches\transforms-4\bb7b3a959a209fc1d4ac6748bb9e5579\transformed\ui-text-release\res
+com.sanil.ride.app-lifecycle-runtime-release-45 C:\Users\suman\.gradle\caches\transforms-4\bc97bdae721d0fb068d1aa1fa6f4f9e0\transformed\lifecycle-runtime-release\res
+com.sanil.ride.app-play-services-basement-18.3.0-46 C:\Users\suman\.gradle\caches\transforms-4\bef41bd716cfd8da143f9ab04fa4424d\transformed\play-services-basement-18.3.0\res
+com.sanil.ride.app-navigation-common-ktx-2.7.7-47 C:\Users\suman\.gradle\caches\transforms-4\c37568fc3329da2fa9f2094880b4ebd5\transformed\navigation-common-ktx-2.7.7\res
+com.sanil.ride.app-navigation-runtime-2.7.7-48 C:\Users\suman\.gradle\caches\transforms-4\c689ae8b42267771e3ff8f6a1c49791b\transformed\navigation-runtime-2.7.7\res
+com.sanil.ride.app-browser-1.4.0-49 C:\Users\suman\.gradle\caches\transforms-4\c7f63017b54af2ffddf87557f02bacd7\transformed\browser-1.4.0\res
+com.sanil.ride.app-core-ktx-1.13.1-50 C:\Users\suman\.gradle\caches\transforms-4\c9a18756168c4a7ab0cf997e2910e84c\transformed\core-ktx-1.13.1\res
+com.sanil.ride.app-lifecycle-livedata-core-2.8.4-51 C:\Users\suman\.gradle\caches\transforms-4\cd26c01d56ad72e6ead12c39cd172d81\transformed\lifecycle-livedata-core-2.8.4\res
+com.sanil.ride.app-play-services-base-18.0.1-52 C:\Users\suman\.gradle\caches\transforms-4\cdfedde4d0cb084034cefe5106a79a39\transformed\play-services-base-18.0.1\res
+com.sanil.ride.app-lifecycle-runtime-ktx-release-53 C:\Users\suman\.gradle\caches\transforms-4\d0b37c89fd7533083e61d799a2d4e718\transformed\lifecycle-runtime-ktx-release\res
+com.sanil.ride.app-credentials-play-services-auth-1.2.0-rc01-54 C:\Users\suman\.gradle\caches\transforms-4\d19a5704420e4bddffcfb830ddeab81f\transformed\credentials-play-services-auth-1.2.0-rc01\res
+com.sanil.ride.app-drawerlayout-1.1.1-55 C:\Users\suman\.gradle\caches\transforms-4\d5138623eeeeabb621f812083fa2eccf\transformed\drawerlayout-1.1.1\res
+com.sanil.ride.app-lifecycle-viewmodel-savedstate-2.8.4-56 C:\Users\suman\.gradle\caches\transforms-4\da4860e72b44045ccb5ec04d96b4ea5a\transformed\lifecycle-viewmodel-savedstate-2.8.4\res
+com.sanil.ride.app-lifecycle-process-2.8.4-57 C:\Users\suman\.gradle\caches\transforms-4\da8ed931745c655b8f116bf8e3ee23e6\transformed\lifecycle-process-2.8.4\res
+com.sanil.ride.app-lifecycle-viewmodel-ktx-2.8.4-58 C:\Users\suman\.gradle\caches\transforms-4\e817e14577e4b2a50e798109cb708e91\transformed\lifecycle-viewmodel-ktx-2.8.4\res
+com.sanil.ride.app-navigation-common-2.7.7-59 C:\Users\suman\.gradle\caches\transforms-4\e89216cd0c1b3d14ad08d73fb9e3f2c5\transformed\navigation-common-2.7.7\res
+com.sanil.ride.app-navigation-runtime-ktx-2.7.7-60 C:\Users\suman\.gradle\caches\transforms-4\e92ca24dadbe38b7e5cb96d94bea81d4\transformed\navigation-runtime-ktx-2.7.7\res
+com.sanil.ride.app-core-runtime-2.2.0-61 C:\Users\suman\.gradle\caches\transforms-4\e9dc5e97f7c97f703fac8316d19bbad4\transformed\core-runtime-2.2.0\res
+com.sanil.ride.app-ui-tooling-data-release-62 C:\Users\suman\.gradle\caches\transforms-4\ea7644dc204c79cbc7e22228f11ff397\transformed\ui-tooling-data-release\res
+com.sanil.ride.app-ui-util-release-63 C:\Users\suman\.gradle\caches\transforms-4\eea721566a53ef47630ef77c73ab393b\transformed\ui-util-release\res
+com.sanil.ride.app-credentials-1.2.0-rc01-64 C:\Users\suman\.gradle\caches\transforms-4\efdb01fdc04113b6ecfbd60c2436694a\transformed\credentials-1.2.0-rc01\res
+com.sanil.ride.app-startup-runtime-1.1.1-65 C:\Users\suman\.gradle\caches\transforms-4\f9a730f0af47041fd6da89ace290ca84\transformed\startup-runtime-1.1.1\res
+com.sanil.ride.app-constraintlayout-2.0.1-66 C:\Users\suman\.gradle\caches\transforms-4\fa0210d56f4091a3b35f9c9d987635b6\transformed\constraintlayout-2.0.1\res
+com.sanil.ride.app-firebase-common-21.0.0-67 C:\Users\suman\.gradle\caches\transforms-4\fa10697f263963146316e2c4ad6fdbc1\transformed\firebase-common-21.0.0\res
+com.sanil.ride.app-res-68 C:\Users\suman\Desktop\Android App Development Projects\Ride\app\build\generated\res\processDebugGoogleServices
+com.sanil.ride.app-resValues-69 C:\Users\suman\Desktop\Android App Development Projects\Ride\app\build\generated\res\resValues\debug
+com.sanil.ride.app-packageDebugResources-70 C:\Users\suman\Desktop\Android App Development Projects\Ride\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.sanil.ride.app-packageDebugResources-71 C:\Users\suman\Desktop\Android App Development Projects\Ride\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.sanil.ride.app-debug-72 C:\Users\suman\Desktop\Android App Development Projects\Ride\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.sanil.ride.app-debug-73 C:\Users\suman\Desktop\Android App Development Projects\Ride\app\src\debug\res
+com.sanil.ride.app-main-74 C:\Users\suman\Desktop\Android App Development Projects\Ride\app\src\main\res
