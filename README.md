@@ -8,22 +8,22 @@ A modern Android app showcasing authentication (Firebase), Google Maps with cate
 ### 🏁 Core UI & Launch Screens  
 | Login | App Start Screen | Registration | Dashboard |
 |---|---|---|---|
-| <img src="assets/screenshots/login.png" width="150"/> | <img src="assets/screenshots/app_start_symbol.png" width="150"/> | <img src="assets/screenshots/registration.png" width="150"/> | <img src="assets/screenshots/dashboard.png" width="150"/> |
+| <img src="assets/screenshots/login.png" width="200"/> | <img src="assets/screenshots/app_start_symbol.png" width="200"/> | <img src="assets/screenshots/registration.png" width="200"/> | <img src="assets/screenshots/dashboard.png" width="200"/> |
 
 ### 🧭 UI Navigation & AI Features  
 | UI Interface | Restaurant Maps | AI Chatbot | ML Hotel Model |
 |---|---|---|---|
-| <img src="assets/screenshots/ui_interface.png" width="150"/> | <img src="assets/screenshots/maps_restaurants_locations.png" width="150"/> | <img src="assets/screenshots/ai_chatbot.png" width="150"/> | <img src="assets/screenshots/ml_bert_model_hotels.png" width="150"/> |
+| <img src="assets/screenshots/ui_interface.png" width="200"/> | <img src="assets/screenshots/maps_restaurants_locations.png" width="200"/> | <img src="assets/screenshots/ai_chatbot.png" width="200"/> | <img src="assets/screenshots/ml_bert_model_hotels.png" width="200"/> |
 
-### 🔥 ML Filters + Firebase System  
+### 🔥 ML Filters  
 | ML Search Filters | Multimedia | AI Notifications | ML Parks Model |
 |---|---|---|---|
-| <img src="assets/screenshots/ml_bert_model_search_filters.png" width="150"/> | <img src="assets/screenshots/multimedia.png" width="150"/> | <img src="assets/screenshots/ai_notifications.png" width="150"/> | <img src="assets/screenshots/ml_bert_model_parks.png" width="150"/> |
+| <img src="assets/screenshots/ml_bert_model_search_filters.png" width="200"/> | <img src="assets/screenshots/multimedia.png" width="200"/> | <img src="assets/screenshots/ai_notifications.png" width="200"/> | <img src="assets/screenshots/ml_bert_model_parks.png" width="200"/> |
 
-### ☁ Cloud Backend & Database  
+### ☁ Firebase System + Cloud Backend & Database  
 | Firebase Users | Cloud Messaging | Firebase Project Details | Firebase Authentication |
 |---|---|---|---|
-| <img src="assets/screenshots/firebase_users.png" width="150"/> | <img src="assets/screenshots/firebase_cloud_messaging.png" width="150"/> | <img src="assets/screenshots/firebase_project_details.png" width="150"/> | <img src="assets/screenshots/firebase_authentication.png" width="150"/> |
+| <img src="assets/screenshots/firebase_users.png" width="200"/> | <img src="assets/screenshots/firebase_cloud_messaging.png" width="200"/> | <img src="assets/screenshots/firebase_project_details.png" width="200"/> | <img src="assets/screenshots/firebase_authentication.png" width="200"/> |
 
 
 
