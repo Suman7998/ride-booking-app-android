@@ -3,39 +3,27 @@
 A modern Android app showcasing authentication (Firebase), Google Maps with category exploration, a simple chat bot, a mock ML reviews module, and media capture (photo/video/audio) – all using Material 3 and Compose Navigation.
 
 
-## Application Screenshots
+## 📸 Application Screenshots  
 
-<p>
-  <img src="assets/screenshots/login.png" width="150"/>
-  <img src="assets/screenshots/app_start_symbol.png" width="150"/>
-  <img src="assets/screenshots/registration.png" width="150"/>
-  <img src="assets/screenshots/dashboard.png" width="150"/>
-  <img src="assets/screenshots/ui_interface.png" width="150"/>
-  <img src="assets/screenshots/maps_restaurants_locations.png" width="150"/>
-  <img src="assets/screenshots/maps_cafes_locations.png" width="150"/>
-</p>
+### 🏁 Core UI & App Launch Screens  
+| Login | App Start Screen | Registration | Dashboard | UI Interface | Restaurant Maps | Cafes Maps |
+|---|---|---|---|---|---|---|
+| <img src="assets/screenshots/login.png" width="150"/> | <img src="assets/screenshots/app_start_symbol.png" width="150"/> | <img src="assets/screenshots/registration.png" width="150"/> | <img src="assets/screenshots/dashboard.png" width="150"/> | <img src="assets/screenshots/ui_interface.png" width="150"/> | <img src="assets/screenshots/maps_restaurants_locations.png" width="150"/> | <img src="assets/screenshots/maps_cafes_locations.png" width="150"/> |
 
+---
 
-<p>
-  <img src="assets/screenshots/maps_parks_locations.png" width="150"/>
-  <img src="assets/screenshots/maps_malls_locations.png" width="150"/>
-  <img src="assets/screenshots/maps_hotels_locations.png" width="150"/>
-  <img src="assets/screenshots/maps_hostels_locations.png" width="150"/>
-  <img src="assets/screenshots/ai_chatbot.png" width="150"/>
-  <img src="assets/screenshots/ml_bert_model_hotels.png" width="150"/>
-  <img src="assets/screenshots/ml_bert_model_parks.png" width="150"/>
-</p>
+### 🌍 Location-Based Suggestions & AI Models  
+| Parks Map | Malls Map | Hotels Map | Hostels Map | AI Chatbot | ML Hotels Model | ML Parks Model |
+|---|---|---|---|---|---|---|
+| <img src="assets/screenshots/maps_parks_locations.png" width="150"/> | <img src="assets/screenshots/maps_malls_locations.png" width="150"/> | <img src="assets/screenshots/maps_hotels_locations.png" width="150"/> | <img src="assets/screenshots/maps_hostels_locations.png" width="150"/> | <img src="assets/screenshots/ai_chatbot.png" width="150"/> | <img src="assets/screenshots/ml_bert_model_hotels.png" width="150"/> | <img src="assets/screenshots/ml_bert_model_parks.png" width="150"/> |
 
+---
 
-<p>
-  <img src="assets/screenshots/ml_bert_model_search_filters.png" width="150"/>
-  <img src="assets/screenshots/multimedia.png" width="150"/>
-  <img src="assets/screenshots/ai_notifications.png" width="150"/>
-  <img src="assets/screenshots/firebase_authentication.png" width="150"/>
-  <img src="assets/screenshots/firebase_users.png" width="150"/>
-  <img src="assets/screenshots/firebase_cloud_messaging.png" width="150"/>
-  <img src="assets/screenshots/firebase_project_details.png" width="150"/>
-</p>
+### 🔥 ML Filters + Firebase System Screens  
+| ML Search Filters | Multimedia | AI Notifications | Firebase Auth | Firebase Users | Cloud Messaging | Firebase Project Details |
+|---|---|---|---|---|---|---|
+| <img src="assets/screenshots/ml_bert_model_search_filters.png" width="150"/> | <img src="assets/screenshots/multimedia.png" width="150"/> | <img src="assets/screenshots/ai_notifications.png" width="150"/> | <img src="assets/screenshots/firebase_authentication.png" width="150"/> | <img src="assets/screenshots/firebase_users.png" width="150"/> | <img src="assets/screenshots/firebase_cloud_messaging.png" width="150"/> | <img src="assets/screenshots/firebase_project_details.png" width="150"/> |
+
 
 
 
